@@ -1,0 +1,4 @@
+# send_to_redis extension
+comment = 'sending data to redis'
+default_version = '0.0.1'
+relocatable = true
